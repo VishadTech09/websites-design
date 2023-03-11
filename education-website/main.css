@@ -1,0 +1,77 @@
+.card-maxwidth {
+    max-width: 30vw !important;
+}
+
+body {
+    background-color: white;
+    font-family: Nunito !important;
+    font-size: 1.2em;
+}
+
+A,
+.app-font-color {
+    color: #8B0000;
+    font-family: Handlee;
+}
+
+.app-btn,
+.app-btn:hover {
+    background-color: #8B0000;
+    color: whitesmoke;
+    border-radius: 30px;
+    min-width: 100px;
+}
+
+.app-header,
+.app-footer {
+    background-color: #8B0000;
+    color: whitesmoke;
+}
+
+.highlighted-section {
+    background-color: #8B0000;
+    padding: 20px;
+    color: whitesmoke;
+}
+
+.footer-section {
+    color: whitesmoke;
+}
+
+.section-margin {
+    margin-top: 75px;
+}
+
+.social-media-icon {
+    font-size: 2em;
+    margin: 3px;
+}
+
+.app-white-link,
+.app-white-link:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.handle-text {
+    font-family: Handlee;
+}
+
+.header-btn,
+.header-btn:hover {
+    border: solid 1px white;
+    color: white;
+    padding:20px;
+    min-width: 300px;
+    border-radius:50px;
+    font-size:1.2em;
+}
+
+.title-font {
+    font-size: 3.5em;
+}
+
+.newletter-btn {
+    background-color: brown !important;
+    color: white;
+}
