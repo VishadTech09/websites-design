@@ -4,11 +4,11 @@ This repository is build to showcase all my webpage design developed during lear
 technologies  
 
 ## Technologies & Framework 🚀  
-- [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML){:target="_blank"}  
-- [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS){:target="_blank"}
-- [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/){:target="_blank"}
-- [Fontawesome](https://fontawesome.com/docs/web/setup/get-started){:target="_blank"}
-- [Google Font](https://fonts.google.com/){:target="_blank"}
+- [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)  
+- [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+- [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+- [Fontawesome](https://fontawesome.com/docs/web/setup/get-started)
+- [Google Font](https://fonts.google.com/)
  
 ## Webpage Portfolio Link  
 - [Edutech](https://web-portfolio.pages.dev)
